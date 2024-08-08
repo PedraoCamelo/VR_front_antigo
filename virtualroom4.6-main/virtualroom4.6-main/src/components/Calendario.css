@@ -1,0 +1,17 @@
+.div_calendario{
+    border: 10px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.rbc-header{
+    background-color: #3174ad;
+    color: white;
+}
+
+.div-maior{
+    background-color: bg-gray-500 ;
+    height: 100%;
+    padding: 30px;
+}
